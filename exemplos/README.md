@@ -1,2 +1,0 @@
-# aulac-
-Aula de C++
